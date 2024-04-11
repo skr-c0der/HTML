@@ -1,2 +1,2 @@
 # HTML
-This is a code saved for HTML  
+This is a code saved for HTML.
